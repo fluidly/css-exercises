@@ -1,6 +1,10 @@
 import React from 'react';
 import styled from 'styled-components/macro';
 
+/* useful colours:
+#000
+*/
+
 // REMEMBER: You can only make changes inside the template string ``
 const HairContainer = styled.div.attrs({ 'data-testid': 'hair' })`
   /* work here */

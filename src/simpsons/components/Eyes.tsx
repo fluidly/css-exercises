@@ -3,6 +3,8 @@ import styled from 'styled-components/macro';
 
 /* useful colours:
 #fbc603
+#000
+#fff
 */
 
 // REMEMBER: You can only make changes inside the template string ``
